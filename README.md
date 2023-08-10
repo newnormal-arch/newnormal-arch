@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ntshingilab@outlook.com**
 
-- 📄 Know about my experiences [https://nbongani.co.za/assets/docs/resume.pdf](https://nbongani.co.za/assets/docs/resume.pdf)
+- 📄 Know about my experiences [https://newnormal-arch.github.io/my_portfolio/assets/docs/Bongani_Ntshingila_Resume.pdf](https://newnormal-arch.github.io/my_portfolio/assets/docs/Bongani_Ntshingila_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
