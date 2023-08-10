@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newnormal-arch" alt="newnormal-arch" /></a> </p>
 
-- 🌱 I’m currently learning **C, Python and DevOps**
+- 🌱 I’m currently learning **React, Redux and Node.js**
 
 - 👨‍💻 All of my projects are available at [https://newnormal-arch.github.io/my_portfolio/](https://newnormal-arch.github.io/my_portfolio/)
 
