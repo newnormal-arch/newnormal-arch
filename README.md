@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C, Python and DevOps**
 
-- 👨‍💻 All of my projects are available at [nbongani.co.za](nbongani.co.za)
+- 👨‍💻 All of my projects are available at [https://newnormal-arch.github.io/my_portfolio/](https://newnormal-arch.github.io/my_portfolio/)
 
 - 💬 Ask me about **Flutter (Dart), Firebase, HTML, CSS and JavaScript**
 
